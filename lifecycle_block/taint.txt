@@ -1,0 +1,10 @@
+
+
+
+
+#terraform taint hum isliye use kerte hai jab bhi vm mein error ata hai to recreate kerne ke liye terraform taint 
+use erte hai 
+
+
+syntax-terraform taint azurerm_virtual_machine.vms
+then terraform aplly kerte he  recreate ho jata hai
